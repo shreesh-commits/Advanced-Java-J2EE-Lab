@@ -209,3 +209,14 @@ Code: Program5D.java
 
 Output:
 [View Output](Program5D-output.png)
+## 6.a Factorial Program
+
+Code: Program6A-FactServlet (1).java
+
+HTML: Program6A-index.html
+
+Output 1:
+[View Output](Program6A-FactServlet (1).png)
+
+Output 2:
+[View Output](Program6A-FactServlet (2).png)
