@@ -298,3 +298,14 @@ Output 1: [View Output](Program9B-output1.png)
 Output 2: [View Output](Program9B-output2.png)
 
 Output 3: [View Output](Program9B-output3.png)
+## 9.c Custom Session Expiry JSP Program
+
+Code: Program9C-welcome.jsp
+
+JSP: Program9C-index.jsp
+
+Output 1: [View Output](Program9C-output1.png)
+
+Output 2: [View Output](Program9C-output2.png)
+
+Output 3: [View Output](Program9C-output3.png)
