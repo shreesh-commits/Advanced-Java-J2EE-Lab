@@ -129,3 +129,9 @@ Code: Program3B4.java
 
 Output:
 [View Output](Program3B4-output.png)
+### Q5 removeWhitespace()
+
+Code: Program3B5.java
+
+Output:
+[View Output](Program3B5-output.png)
