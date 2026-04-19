@@ -269,3 +269,12 @@ HTML: Program8A-index.html
 Output 1: [View Output](Program8A-output1.png)
 
 Output 2: [View Output](Program8A-output2.png)
+## 8.b Cookie Name Value Servlet Program
+
+Code: Program8B-CookieValueServlet.java
+
+HTML: Program8B-index.html
+
+Output 1: [View Output](Program8B-output1.png)
+
+Output 2: [View Output](Program8B-output2.png)
