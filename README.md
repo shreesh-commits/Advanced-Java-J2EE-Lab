@@ -260,3 +260,12 @@ Output 1: [View Output](Program7B-output1.png)
 Output 2: [View Output](Program7B-output2.png)
 
 Output 3: [View Output](Program7B-output3.png)
+## 8.a Cookie List Servlet Program
+
+Code: Program8A-CookieListServlet.java
+
+HTML: Program8A-index.html
+
+Output 1: [View Output](Program8A-output1.png)
+
+Output 2: [View Output](Program8A-output2.png)
