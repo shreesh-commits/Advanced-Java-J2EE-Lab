@@ -247,3 +247,16 @@ Output 1: [View Output](Program7A-output1.png)
 Output 2: [View Output](Program7A-output2.png)
 
 Output 3: [View Output](Program7A-output3.png)
+## 7.b Cookie Management JSP Program
+
+Code: Program7B-addcookie.jsp
+
+JSP Files:
+Program7B-index.jsp
+Program7B-showcookies.jsp
+
+Output 1: [View Output](Program7B-output1.png)
+
+Output 2: [View Output](Program7B-output2.png)
+
+Output 3: [View Output](Program7B-output3.png)
