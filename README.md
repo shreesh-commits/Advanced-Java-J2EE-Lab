@@ -55,3 +55,10 @@ Code: Program1C1.java
 
 Output:
 [View Output](Program1C1-output.png)
+
+### Q2 Reverse order
+
+Code: Program1C2.java
+
+Output:
+[View Output](Program1C2-output.png)
