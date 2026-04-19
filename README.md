@@ -155,3 +155,9 @@ Code: Program3C8.java
 
 Output:
 [View Output](Program3C8-output.png)
+### Q9 generateRandomString()
+
+Code: Program3C9.java
+
+Output:
+[View Output](Program3C9-output.png)
