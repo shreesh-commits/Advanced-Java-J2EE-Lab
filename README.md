@@ -218,3 +218,12 @@ HTML: Program6A-index.html
 Output 1: [View Output](<Program6A-FactServlet (1).png>)
 
 Output 2: [View Output](<Program6A-FactServlet (2).png>)
+## 6.b Cookie Program
+
+Code: Program6B-CookieServlet.java
+
+HTML: Program6B-index.html
+
+Output 1: [View Output](Program6B-output1.png)
+
+Output 2: [View Output](Program6B-output2.png)
