@@ -135,3 +135,11 @@ Code: Program3B5.java
 
 Output:
 [View Output](Program3B5-output.png)
+## 3.c String Exercise Programs
+
+### Q6 capitalizeWords()
+
+Code: Program3C6.java
+
+Output:
+[View Output](Program3C6-output.png)
