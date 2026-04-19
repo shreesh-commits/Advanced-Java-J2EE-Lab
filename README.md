@@ -320,3 +320,14 @@ Program10A-result.jsp
 Output 1: [View Output](Program10A-output1.png)
 
 Output 2: [View Output](Program10A-output2.png)
+## 10.b Student Result Servlet JSP Program
+
+Code: Program10B-ResultServlet.java
+
+JSP:
+Program10B-index.jsp
+Program10B-result.jsp
+
+Output 1: [View Output](Program10B-output1.png)
+
+Output 2: [View Output](Program10B-output2.png)
