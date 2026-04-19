@@ -197,3 +197,9 @@ Code: Program5B.java
 
 Output:
 [View Output](Program5B-output.png)
+## 5.c Country Capitals Program
+
+Code: Program5C.java
+
+Output:
+[View Output](Program5C-output.png)
