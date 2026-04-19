@@ -40,3 +40,10 @@ Code: Program1B4.java
 
 Output:
 [View Output](Program1B4-output.png)
+
+### Q5 Delete nth element
+
+Code: Program1B5.java
+
+Output:
+[View Output](Program1B5-output.png)
