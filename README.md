@@ -26,3 +26,10 @@ Code: Program1B2.java
 
 Output:
 [View Output](Program1B2-output.png)
+
+### Q3 Sort Colors
+
+Code: Program1B3.java
+
+Output:
+[View Output](Program1B3-output.png)
