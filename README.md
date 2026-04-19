@@ -19,3 +19,10 @@ Code File: Program1B1.java
 
 Output:
 [View Output](Program1B1-output.png)
+
+### Q2 Remove 2nd element and Blue
+
+Code: Program1B2.java
+
+Output:
+[View Output](Program1B2-output.png)
