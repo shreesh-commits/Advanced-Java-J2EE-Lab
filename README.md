@@ -287,3 +287,14 @@ HTML: Program9A-index.html
 Output 1: [View Output](Program9A-output1.png)
 
 Output 2: [View Output](Program9A-output2.png)
+## 9.b Session JSP Program
+
+Code: Program9B-welcome.jsp
+
+JSP: Program9B-index.jsp
+
+Output 1: [View Output](Program9B-output1.png)
+
+Output 2: [View Output](Program9B-output2.png)
+
+Output 3: [View Output](Program9B-output3.png)
