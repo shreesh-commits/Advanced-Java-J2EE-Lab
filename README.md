@@ -161,3 +161,9 @@ Code: Program3C9.java
 
 Output:
 [View Output](Program3C9-output.png)
+### Q10 countWords()
+
+Code: Program3C10.java
+
+Output:
+[View Output](Program3C10-output.png)
