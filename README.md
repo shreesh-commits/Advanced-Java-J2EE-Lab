@@ -68,3 +68,9 @@ Code: Program1C3.java
 
 Output:
 [View Output](Program1C3-output.png)
+### Q4 Display elements and positions
+
+Code: Program1C4.java
+
+Output:
+[View Output](Program1C4-output.png)
