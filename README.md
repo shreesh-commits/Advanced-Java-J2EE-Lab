@@ -236,3 +236,14 @@ HTML: Program6C-index.html
 Output 1: [View Output](Program6C-output1.png)
 
 Output 2: [View Output](Program6C-output2.png)
+## 7.a Session Management JSP Program
+
+Code: Program7A-welcome.jsp
+
+HTML/JSP: Program7A-index.jsp
+
+Output 1: [View Output](Program7A-output1.png)
+
+Output 2: [View Output](Program7A-output2.png)
+
+Output 3: [View Output](Program7A-output3.png)
