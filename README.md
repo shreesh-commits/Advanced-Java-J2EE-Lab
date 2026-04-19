@@ -87,3 +87,10 @@ Code: Program2A.java
 Output:
 [View Output](Program2A-output1.png)
 [View Output](Program2A-output2.png)
+
+## 2.b Performance Test
+
+Code: Program2B.java
+
+Output:
+[View Output](Program2B-output.png)
