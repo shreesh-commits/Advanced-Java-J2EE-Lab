@@ -191,3 +191,9 @@ Code: Program5A.java
 
 Output:
 [View Output](Program5A-output.png)
+## 5.b Tabbed Pane Colors
+
+Code: Program5B.java
+
+Output:
+[View Output](Program5B-output.png)
