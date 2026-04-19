@@ -143,3 +143,9 @@ Code: Program3C6.java
 
 Output:
 [View Output](Program3C6-output.png)
+### Q7 truncate()
+
+Code: Program3C7.java
+
+Output:
+[View Output](Program3C7-output.png)
