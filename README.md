@@ -123,3 +123,9 @@ Code: Program3B3.java
 
 Output:
 [View Output](Program3B3-output.png)
+### Q4 isPalindrome()
+
+Code: Program3B4.java
+
+Output:
+[View Output](Program3B4-output.png)
