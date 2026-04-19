@@ -80,3 +80,10 @@ Code: Program1C5.java
 
 Output:
 [View Output](Program1C5-output.png)
+## 2.a String Operations
+
+Code: Program2A.java
+
+Output:
+[View Output](Program2A-output1.png)
+[View Output](Program2A-output2.png)
