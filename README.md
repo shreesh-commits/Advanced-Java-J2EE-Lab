@@ -309,3 +309,14 @@ Output 1: [View Output](Program9C-output1.png)
 Output 2: [View Output](Program9C-output2.png)
 
 Output 3: [View Output](Program9C-output3.png)
+## 10.a User Validation Servlet JSP Program
+
+Code: Program10A-UserDataServlet.java
+
+JSP:
+Program10A-index.jsp
+Program10A-result.jsp
+
+Output 1: [View Output](Program10A-output1.png)
+
+Output 2: [View Output](Program10A-output2.png)
