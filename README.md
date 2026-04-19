@@ -103,3 +103,11 @@ Output Part 1:
 
 Output Part 2:
 [View Output 2](Program3A-output2.png)
+## 3.b String Exercise Programs
+
+### Q1 isNullOrEmpty()
+
+Code: Program3B1.java
+
+Output:
+[View Output](Program3B1-output.png)
