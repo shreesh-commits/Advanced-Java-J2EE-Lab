@@ -94,3 +94,12 @@ Code: Program2B.java
 
 Output:
 [View Output](Program2B-output.png)
+## 3.a String Operations
+
+Code: Program3A.java
+
+Output Part 1:
+[View Output 1](Program3A-output1.png)
+
+Output Part 2:
+[View Output 2](Program3A-output2.png)
