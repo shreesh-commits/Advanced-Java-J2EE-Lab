@@ -111,3 +111,9 @@ Code: Program3B1.java
 
 Output:
 [View Output](Program3B1-output.png)
+### Q2 countOccurrences()
+
+Code: Program3B2.java
+
+Output:
+[View Output](Program3B2-output.png)
