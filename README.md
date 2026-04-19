@@ -62,3 +62,9 @@ Code: Program1C2.java
 
 Output:
 [View Output](Program1C2-output.png)
+### Q3 Insert element at end
+
+Code: Program1C3.java
+
+Output:
+[View Output](Program1C3-output.png)
