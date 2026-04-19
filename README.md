@@ -47,3 +47,11 @@ Code: Program1B5.java
 
 Output:
 [View Output](Program1B5-output.png)
+## 1.c LinkedList Programs
+
+### Q1 Iterate from 2nd position
+
+Code: Program1C1.java
+
+Output:
+[View Output](Program1C1-output.png)
