@@ -203,3 +203,9 @@ Code: Program5C.java
 
 Output:
 [View Output](Program5C-output.png)
+## 5.d Tabbed Pane CMY Colors
+
+Code: Program5D.java
+
+Output:
+[View Output](Program5D-output.png)
