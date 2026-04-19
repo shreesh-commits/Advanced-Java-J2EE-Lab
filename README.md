@@ -215,8 +215,6 @@ Code: Program6A-FactServlet (1).java
 
 HTML: Program6A-index.html
 
-Output 1:
-[View Output](Program6A-FactServlet (1).png)
+Output 1: [View Output](<Program6A-FactServlet (1).png>)
 
-Output 2:
-[View Output](Program6A-FactServlet (2).png)
+Output 2: [View Output](<Program6A-FactServlet (2).png>)
