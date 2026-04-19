@@ -33,3 +33,10 @@ Code: Program1B3.java
 
 Output:
 [View Output](Program1B3-output.png)
+
+### Q4 Extract 1st and 2nd using SubList
+
+Code: Program1B4.java
+
+Output:
+[View Output](Program1B4-output.png)
