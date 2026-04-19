@@ -149,3 +149,9 @@ Code: Program3C7.java
 
 Output:
 [View Output](Program3C7-output.png)
+### Q8 isNumeric()
+
+Code: Program3C8.java
+
+Output:
+[View Output](Program3C8-output.png)
