@@ -74,3 +74,9 @@ Code: Program1C4.java
 
 Output:
 [View Output](Program1C4-output.png)
+### Q5 Swap first and third elements
+
+Code: Program1C5.java
+
+Output:
+[View Output](Program1C5-output.png)
