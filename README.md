@@ -179,3 +179,9 @@ Code: Program4B.java
 
 Output:
 [View Output](Program4B-output.png)
+## 4.c Clock Button Program
+
+Code: Program4C.java
+
+Output:
+[View Output](Program4C-output.png)
