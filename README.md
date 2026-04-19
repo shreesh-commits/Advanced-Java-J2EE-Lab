@@ -227,3 +227,12 @@ HTML: Program6B-index.html
 Output 1: [View Output](Program6B-output1.png)
 
 Output 2: [View Output](Program6B-output2.png)
+## 6.c Prime Number Program
+
+Code: Program6C-PrimeServlet.java
+
+HTML: Program6C-index.html
+
+Output 1: [View Output](Program6C-output1.png)
+
+Output 2: [View Output](Program6C-output2.png)
