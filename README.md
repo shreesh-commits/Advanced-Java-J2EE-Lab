@@ -173,3 +173,9 @@ Code: Program4A.java
 
 Output:
 [View Output](Program4A-output.png)
+## 4.b Button Event Program
+
+Code: Program4B.java
+
+Output:
+[View Output](Program4B-output.png)
